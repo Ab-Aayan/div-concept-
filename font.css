@@ -1,0 +1,49 @@
+.wrapper{
+  width: 960px;
+  margin: 0 auto;
+}
+.header{
+    width: 960px;
+    height: 60px;
+    background-color: burlywood;
+}
+.small-section{
+    width: 240px;
+    height: 60px;
+    background-color: black;
+    float: left;
+}
+.big-section{
+    width: 700px;
+    height: 60px;
+    background-color: cadetblue;
+    float: right;
+}
+.banner{
+    width: 960px;
+    height: 200px;
+    background-color: yellowgreen;
+}
+.img-area{
+    width: 960px;
+    height: 400px;
+}
+.post-1{
+    width: 470px;
+    height: 400px;
+    background-color: thistle;
+    float: left;
+
+}
+.post-2{
+    width: 470px;
+    height: 400px;
+    background-color: red;
+    float: right;
+
+}
+.footer{
+    width: 960px;
+    height: 200px;
+    background-color: rebeccapurple;
+}
